@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          ppxppxppxppxppxppxppxppxppxppxppxppxppxppx
+          7777777777777
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ppxppxppxppxppxppxppxppxppxppxppxppxppxppxppx
+          7777777777777
         </a>
       </header>
     </div>
